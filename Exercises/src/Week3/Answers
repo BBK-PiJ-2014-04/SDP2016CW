@@ -1,0 +1,7 @@
+Question 1 
+	1. In abstract classes, you can define non-static, non-final fields. In interfaces, all the fields are static and final (and public)
+	2. In abstract classes, you can define public, protected and private concrete methods. All the methods declared or defined as default methods in Interfaces are public.
+	3. You can only inherit one class, whether is abstract or not. You can implement as many interfaces as you want.
+
+Question 2
+	 
